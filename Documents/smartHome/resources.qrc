@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/logoImage">
+        <file>images/HOME.png</file>
+        <file>images/chatImg.png</file>
+        <file>images/search.png</file>
+        <file>images/profile.png</file>
+        <file>images/cctv.png</file>
+        <file>images/Checkbox_Off.png</file>
+        <file>images/Checkbox_On.png</file>
+        <file>images/curtain.png</file>
+        <file>images/gas.png</file>
+        <file>images/light.png</file>
+    </qresource>
+</RCC>
